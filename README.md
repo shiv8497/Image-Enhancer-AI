@@ -1,12 +1,52 @@
-# React + Vite
+# AI Image Enhancer  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview  
+AI Image Enhancer is a web application built using React.js that allows users to enhance images using the PicWish API. The platform improves image quality, sharpens details, and enhances resolution with AI-powered technology.  
 
-Currently, two official plugins are available:
+## ✨ Features  
+- Upload and enhance images with AI  
+- Supports various image formats  
+- Fast and high-quality enhancements  
+- Easy-to-use interface  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** PicWish API  
+- **Hosting:** (Mention if you use Netlify, Vercel, or another service)  
 
-## Expanding the ESLint configuration
+## 📦 Installation  
+### Clone the repository  
+```bash  
+git clone https://github.com/your-username/ai-image-enhancer.git  
+cd ai-image-enhancer  
+```  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Install dependencies  
+
+
+npm install  
+```   
+
+### Run the app
+
+
+npm start  
+```  
+
+## 🖼️ Usage  
+1. Upload an image  
+2. Click the **Enhance** button  
+3. Download the enhanced image  
+
+## 🚀 Deployment  
+- You can deploy this app on **Vercel** or **Netlify** for quick hosting.  
+
+## 🤝 Contributing  
+Feel free to fork the repo and contribute!  
+
+## 📜 License  
+This project is licensed under [MIT License](LICENSE).  
+
+---
+
+Let me know if you want to modify anything! 🚀
